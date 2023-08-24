@@ -191,6 +191,7 @@ td, th {
 	font-size: 2em;
 	margin: 0 0 1em;
 	clear: left;
+	text-shadow: 1px 1px 0 #888888;
 }
 
 .principal {
@@ -264,6 +265,7 @@ td, th {
 .imagem-beneficios {
 	width: 60%;
 	opacity: 1;
+	box-shadow: 10px 10px 10px 0 #000000;
 }
 
 .imagem-beneficios:hover {
